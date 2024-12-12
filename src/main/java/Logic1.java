@@ -561,6 +561,7 @@ public class Logic1
     else{
         return n + "!";
     }
+    }
 
     /*When squirrels get together for a party, they like to have sodas. 
     A squirrel party is successful when the number of sodas is between 40 and 60, inclusive. 
@@ -588,9 +589,6 @@ public class Logic1
             return false;
         }
         }
-    }
-        
-  
     }
 
 }
