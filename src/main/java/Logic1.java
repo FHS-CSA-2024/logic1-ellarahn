@@ -489,6 +489,7 @@ public class Logic1
              return false;
          }
         }
+    }
     
   
  /*You are driving a little too fast, and a police officer stops you. 
@@ -504,7 +505,7 @@ public class Logic1
     caughtSpeeding(65, false) --> 1
     caughtSpeeding(65, true) --> 0    */
     public int caughtSpeeding(int speed, boolean isBirthday) {
-      
+	return 0;
     }
 /*
     You and your date are trying to get a table at a restaurant. 
